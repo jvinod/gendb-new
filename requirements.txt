@@ -1,0 +1,7 @@
+langchain 
+langchain_experimental 
+openai 
+psycopg2
+unstructured == 0.5.6 
+django-environ
+
